@@ -4,11 +4,11 @@ import Advertisements from '../components/Advertisements';
 import BookingModal from '../components/BookingModal';
 import Championships from '../components/Championships';
 import CourtAvailability from '../components/CourtAvailability';
+import Footer from '../components/Footer';
 import HeroSection from '../components/HeroSection';
 import LoginPage from '../components/LoginPage';
 import Navbar from '../components/Navbar';
 import OurPackages, { TrainingSection } from '../components/OurPackages';
-import OurSponsors from '../components/OurSponsors';
 import SquashShop from '../components/SquashShop';
 import Profile from '../components/Profile';
 import SocialFloat from '../components/SocialFloat';
@@ -181,9 +181,7 @@ const Index = () => {
             <div id="championships">
               <Championships />
             </div>
-            <div id="ourSponsors">
-              <OurSponsors />
-            </div>
+            <Footer />
           </>
         );
     }

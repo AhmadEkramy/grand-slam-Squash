@@ -3,9 +3,9 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { TrainingCard } from '../types';
 
 const packages = [
-  { hours: 1, price: 150, vip: false },
-  { hours: 2, price: 300, vip: false },
-  { hours: 3, price: 450, vip: false },
+  { hours: 1, price: 200, vip: false },
+  { hours: 2, price: 350, vip: false },
+  { hours: 3, price: 500, vip: false },
   { hours: 4, price: 600, vip: true },
 ];
 

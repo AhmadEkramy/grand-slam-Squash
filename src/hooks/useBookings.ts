@@ -439,13 +439,13 @@ export const useBookings = () => {
 
   // Helper to get price for recurring booking
   const getRecurringBookingPrice = (duration: number) => {
-    // Use 1 hour = 150, 2 hours = 300, 3 hours = 450, 4 hours = 600
+    // Use 1 hour = 200, 2 hours = 350, 3 hours = 500, 4 hours = 600
     switch (duration) {
-      case 1: return 150;
-      case 2: return 300;
-      case 3: return 450;
+      case 1: return 200;
+      case 2: return 350;
+      case 3: return 500;
       case 4: return 600;
-      default: return duration * 150;
+      default: return duration * 200;
     }
   };
 

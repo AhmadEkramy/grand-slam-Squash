@@ -24,11 +24,11 @@ const translations: Translations = {
   squashShop: { en: 'Squash Shop', ar: 'منتجات السكاش' },
   heroTitle: { 
     en: 'Welcome to the Grand Slam Squash Academy', 
-    ar: 'اهلا بكم فى أكاديمية جراند سلام للسكاش' 
+    ar: 'اهلا بكم فى أكاديمية جراند سلام للاسكواش' 
   },
   heroSubtitle: { 
     en: 'Book your court today and enjoy playing Squash on the best courts in Damietta Governorate inside the arena.', 
-    ar: 'احجز ملعبك اليوم واستمتع بممارسة السكاش على أفضل ملاعب بمحافظة دمياط داخل الساحة' 
+    ar: 'احجز ملعبك اليوم واستمتع بممارسة الاسكواش على أفضل ملاعب بمحافظة دمياط داخل الساحة' 
   },
   courtAvailability: { en: 'Court Availability', ar: 'توفر الملاعب' },
   shop: { en: 'Squash Shop', ar: 'متجر السكاش' },
