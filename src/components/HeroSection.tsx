@@ -103,9 +103,6 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onBookNowClick }) => {
             <div className="floating-element floating-trophy" style={{ animationDelay: '0.4s' }}>
               <Trophy className="w-16 h-16 text-yellow-400" />
             </div>
-            <div className="floating-element floating-ball" style={{ animationDelay: '0.6s' }}>
-              <div className="text-4xl">⚽</div>
-            </div>
           </div>
 
           {/* Stats Section */}

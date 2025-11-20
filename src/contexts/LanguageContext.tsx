@@ -59,6 +59,7 @@ const translations: Translations = {
   close: { en: 'Close', ar: 'إغلاق' },
   ourPackages: { en: 'Our Packages', ar: 'باقاتنا' },
   chooseDuration: { en: 'Choose the perfect duration for your game', ar: 'اختر المدة المثالية للعبتك' },
+  packageDescription: { en: 'Select the ideal duration for your Squash experience. From quick games to extended sessions, we have the perfect package for you.', ar: 'اختر المدة المثالية لتجربة السكاش الخاصة بك. من الألعاب السريعة إلى الجلسات الممتدة، لدينا الباقة المثالية لك.' },
   vip: { en: 'VIP', ar: 'كبار الشخصيات' },
   hour: { en: 'Hour', ar: 'ساعة' },
   whatsappPurchaseMsg: { en: `Hi! I'm interested in purchasing {name} for {price} EGP`, ar: 'مرحبًا! أود شراء {name} مقابل {price} جنيه' },
@@ -70,6 +71,18 @@ const translations: Translations = {
   trainingCard2Title: { en: 'Advanced Squash Training', ar: 'تدريب السكاش المتقدم' },
   trainingCard2Desc: { en: 'Take your Squash skills to the next level with advanced drills and tactics.', ar: 'ارتق بمهاراتك في السكاش إلى المستوى التالي مع تدريبات وتكتيكات متقدمة.' },
   subscribeNow: { en: 'Subscribe now', ar: 'اشترك الآن' },
+  followUs: { en: 'Follow Us', ar: 'تابعنا' },
+  websiteBy: { en: 'Website by Ahmed Ekramy', ar: 'الموقع من تصميم أحمد إكرامي' },
+  engineerTitle: { en: 'Computer and Communications Engineer', ar: 'مهندس حاسبات واتصالات' },
+  allRightsReserved: { en: 'All rights reserved.', ar: 'جميع الحقوق محفوظة.' },
+  competeToWin: { en: 'Compete to Win', ar: 'تنافس للفوز' },
+  championshipDescription: { en: 'Join our exciting tournaments and championships. Showcase your skills and compete for glory!', ar: 'انضم إلى بطولاتنا ومسابقاتنا المثيرة. أظهر مهاراتك وتنافس من أجل المجد!' },
+  expertCoaching: { en: 'Expert Coaching', ar: 'تدريب خبير' },
+  trainingDescription: { en: 'Elevate your game with our professional training programs designed for all skill levels.', ar: 'ارتق بلعبتك مع برامجنا التدريبية المهنية المصممة لجميع مستويات المهارة.' },
+  featuredContent: { en: 'Featured Content', ar: 'محتوى مميز' },
+  adDescription: { en: 'Discover our latest promotions and featured content.', ar: 'اكتشف أحدث عروضنا والمحتوى المميز.' },
+  premiumEquipment: { en: 'Premium Equipment', ar: 'معدات ممتازة' },
+  shopDescription: { en: 'Discover our curated collection of professional-grade Squash equipment and accessories.', ar: 'اكتشف مجموعتنا المختارة من معدات وملحقات السكاش الاحترافية.' },
 };
 
 interface LanguageContextType {
