@@ -21,7 +21,7 @@ const translations: Translations = {
   available: { en: 'Available', ar: 'متاح' },
   booked: { en: 'Booked', ar: 'محجوز' },
   selectTime: { en: 'Select Time', ar: 'اختار الوقت' },
-  squashShop: { en: 'Squash Shop', ar: 'منتجات السكاش' },
+  squashShop: { en: 'Squash Shop', ar: 'منتجات الاسكواش' },
   heroTitle: { 
     en: 'Welcome to the Grand Slam Squash Academy', 
     ar: 'اهلا بكم فى أكاديمية جراند سلام للاسكواش' 
@@ -77,12 +77,12 @@ const translations: Translations = {
   allRightsReserved: { en: 'All rights reserved.', ar: 'جميع الحقوق محفوظة.' },
   competeToWin: { en: 'Compete to Win', ar: 'تنافس للفوز' },
   championshipDescription: { en: 'Join our exciting tournaments and championships. Showcase your skills and compete for glory!', ar: 'انضم إلى بطولاتنا ومسابقاتنا المثيرة. أظهر مهاراتك وتنافس من أجل المجد!' },
-  expertCoaching: { en: 'Expert Coaching', ar: 'تدريب خبير' },
+  expertCoaching: { en: 'Expert Coaching', ar: 'تدريب خاص ' },
   trainingDescription: { en: 'Elevate your game with our professional training programs designed for all skill levels.', ar: 'ارتق بلعبتك مع برامجنا التدريبية المهنية المصممة لجميع مستويات المهارة.' },
   featuredContent: { en: 'Featured Content', ar: 'محتوى مميز' },
   adDescription: { en: 'Discover our latest promotions and featured content.', ar: 'اكتشف أحدث عروضنا والمحتوى المميز.' },
   premiumEquipment: { en: 'Premium Equipment', ar: 'معدات ممتازة' },
-  shopDescription: { en: 'Discover our curated collection of professional-grade Squash equipment and accessories.', ar: 'اكتشف مجموعتنا المختارة من معدات وملحقات السكاش الاحترافية.' },
+  shopDescription: { en: 'Discover our curated collection of professional-grade Squash equipment and accessories.', ar: 'اكتشف مجموعتنا المختارة من معدات وملحقات الاسكواش الاحترافية' },
 };
 
 interface LanguageContextType {
